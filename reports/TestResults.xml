@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies timestamp="07/25/2023 12:19:03">
+  <assembly name="/projects/challenge/CarService.Tests/bin/Debug/netcoreapp3.0/CarService.Tests.dll" run-date="2023-07-25" run-time="12:19:03" total="2" passed="2" failed="0" skipped="0" time="11.608" errors="0">
+    <errors />
+    <collection total="2" passed="2" failed="0" skipped="0" name="Test collection for CarService.Tests.IntegrationTests" time="11.608">
+      <test name="CarService.Tests.IntegrationTests.Test1" type="CarService.Tests.IntegrationTests" method="Test1" time="3.4177538" result="Pass">
+        <traits />
+      </test>
+      <test name="CarService.Tests.IntegrationTests.Test2" type="CarService.Tests.IntegrationTests" method="Test2" time="8.1899163" result="Pass">
+        <traits />
+      </test>
+    </collection>
+  </assembly>
+</assemblies>
